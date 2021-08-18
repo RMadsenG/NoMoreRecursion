@@ -1,7 +1,7 @@
-# Fibonacci and Factorial Calculation 
-## A "highly" efficient method of calculating the fibonacci sequence and factorials
-Factorials and the fibonacci sequence are the standard intruductory problems when a CS student is first introduced to recursion.
+# Non Recursive Calculations
+## A "highly" efficient method of rewriting recursive algorithms using loops instead
 
-We are then quickly taught that recursion is very slow, and when it can be avoided, it should be.
+When we are first introduced to recursion in school, we are taught that loops are usually faster than recursion.
+If you can easily write a function using loops instead of recursion, we are told that you should.
 
-This is my attempt at redoing these problems using loops instead of recursion for maximum speed.
+This is my attempt at redoing common recursive algorithms using loops instead of recursion for "maximum" speed.
